@@ -1,7 +1,7 @@
 `default_nettype none
 `timescale 1ns / 1ps
 
-module reaction_timer (
+module tt_um_reaction_timer (
     input  wire       clk,
     input  wire       rst_n,
     input  wire       ena,
